@@ -1,1 +1,3 @@
 a fluid tutorial in Minecraft 1.12.2
+Please put .mcmeta file and .png file into your src\main\resources\assets\modid\textures\blocks path.
+Please put .json file into your src\main\resources\assets\joymod\blockstates path.
